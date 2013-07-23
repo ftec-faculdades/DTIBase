@@ -1,0 +1,24 @@
+{
+    "name": "ftec-faculdades/dti-base",
+    "description": "Base para módulos em ZF 2 da Ftec | DTI",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "module",
+        "zf2",
+		"dti",
+		"base"
+    ],
+    "homepage": "https://github.com/ftec-faculdades/DTIBase",
+    "authors": [
+        {
+            "name": "Sérgio Ernane Munhós Hermes",
+            "email": "sergiohermes@ftec.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "DTIBase": "src/"
+        }
+	}
+}
